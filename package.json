@@ -26,6 +26,7 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
     },
     "dependencies": {
+        "animate.css": "^3.7.0",
         "bootstrap": "^4.1.1",
         "devicons": "^1.8.0",
         "jquery": "^3.3.1",
